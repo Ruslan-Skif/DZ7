@@ -55,7 +55,7 @@ public class Main {
             }
             System.out.print(weight[i]);
             if (i < weight.length - 1){
-                System.out.print(", ");
+                System.out.print(",  ");
             }
         }
 
